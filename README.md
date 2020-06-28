@@ -1,2 +1,2 @@
 # Prototype-Restaurant Website
-First restaurant prototype using basic HTML5 and CSS3
+First restaurant website prototype using basic HTML5 and CSS3
